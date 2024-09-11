@@ -1,0 +1,13 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+.colored-section{
+    background-color: #6739B6;
+    color: #fff;
+}
+
+.navbar-brand img{
+    width: 250px;
+    height: auto;
+  }
